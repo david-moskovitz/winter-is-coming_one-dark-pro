@@ -1,0 +1,42 @@
+{
+  "name": "winter-is-coming_one-dark-pro",
+  "displayName": "Winter Is Coming / One Dark Pro",
+  "description": "Atom's iconic 'One Dark' theme with a 'Winter is Coming' background",
+  "version": "0.0.1",
+  "publisher": "Moskovitz",
+  "author": {
+    "name": "Moskovitz"
+  },
+  "bugs": {
+    "url": "https://github.com/david-moskovitz/winter-is-coming_one-dark-pro/issues"
+  },
+  "homepage": "https://github.com/david-moskovitz/winter-is-coming_one-dark-pro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/david-moskovitz/winter-is-coming_one-dark-pro"
+  },
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "one dark",
+    "onedark",
+    "one dark pro",
+    "theme",
+    "italics",
+    "atom",
+    "winter is coming"
+  ]
+}
