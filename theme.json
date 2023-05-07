@@ -132,7 +132,9 @@
     "titleBar.border": "#303030",
     "titleBar.inactiveBackground": "#000a11",
     "walkThrough.embeddedEditorBackground": "#001111",
-    "widget.shadow": "#219fd5"
+    "widget.shadow": "#219fd5",
+    "editorInlayHint.background": "#011627",
+    "editorInlayHint.foreground": "#404351"
   },
   "tokenColors": [
     {
